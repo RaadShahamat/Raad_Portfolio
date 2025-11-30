@@ -6,7 +6,7 @@ export const PROFILE = {
   phone: "+880-1621076161",
   github: "https://github.com/RaadShahamat",
   linkedin: "https://www.linkedin.com/in/raad-shahamat-alif/",
-  photo: "/assets/profile.jpg",
+  photo: "assets/profile.jpg",
   location: "Khulna, Bangladesh",
   cv: "/assets/Raad_CV.pdf"
 };
@@ -174,7 +174,7 @@ export const AWARDS = [
 ];
 
 export const CERTIFICATES = [
-  { id: 1, title: "EDGE ML Course", img: "/assets/edge.png" },
-  { id: 2, title: "DIU Data Visionary", img: "/assets/diu.jpg" },
-  { id: 3, title: "Learnathon 3.0", img: "/assets/learnathon.jpg" }
+  { id: 1, title: "EDGE ML Course", img: "assets/edge.png" },
+  { id: 2, title: "DIU Data Visionary", img: "assets/diu.jpg" },
+  { id: 3, title: "Learnathon 3.0", img: "assets/learnathon.jpg" }
 ];
