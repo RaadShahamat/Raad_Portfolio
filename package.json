@@ -2,7 +2,7 @@
   "name": "raad-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://raadshahamat.github.io/Raad-Portfolio",
+  "homepage": "https://RaadShahamat.github.io/Raad-Portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
